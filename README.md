@@ -367,13 +367,6 @@ EdTech-Online-Course-Analysis/
 - Course Recommendation System
 - Predictive Analytics using Machine Learning
 
----
-
-# 👨‍💻 Author
-
-**RAJAN KUMAR**
-
-Data Analyst | Power BI Developer
 
 ### Skills Demonstrated
 
@@ -386,6 +379,11 @@ Data Analyst | Power BI Developer
 - Data Visualization
 
 ---
+# 👨‍💻 Author
+
+**RAJAN KUMAR**
+
+Data Analyst | Power BI Developer
 
 ## ⭐ Support
 
