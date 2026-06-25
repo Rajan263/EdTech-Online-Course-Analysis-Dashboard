@@ -329,11 +329,11 @@ Includes:
 
 ### Executive Dashboard
 
-![Dashboard 1](Images/dashboard1.png)
+![Dashboard1](dashboard1.png)
 
 ### Advanced Analytics Dashboard
 
-![Dashboard 2](Images/dashboard2.png)
+![Dashboard2](dashboard2.png)
 
 ---
 
